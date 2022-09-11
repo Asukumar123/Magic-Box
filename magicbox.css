@@ -1,0 +1,39 @@
+body{
+    background-color:rgba(56,156,24,0.5);
+}
+.container{
+    margin:100px;
+    border:2px solid black
+}
+.algin{
+
+
+margin:100px;
+}
+td{
+   
+    padding:100px;
+    margin:10px;
+}
+.algin{
+    text-align:center;
+    background-color:rgba(94, 73, 224, 0.5);
+    padding:0px;
+}
+.box{
+    padding:100px;
+    margin:50px
+}
+.textcontent{
+    background-color:rgb(176, 246, 248);
+    max-width: fit-content;
+}
+section{
+    padding:100px;
+    margin:100px;
+}
+img{
+    height:350px;
+    width:700px;
+    align-items: center;
+}
